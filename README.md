@@ -1,5 +1,5 @@
-# laravel
-Laravel Tugas
+# Belajar
+Belajar
 
 
 Ini adalah repository laravel
